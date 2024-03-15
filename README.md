@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Moneyfare
+Personal finance Management system
 
 The Expense Management System is a web-based application designed to assist users in tracking and managing their daily expenses. This system is built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) to create a scalable, responsive, and user-friendly application.
 
@@ -53,3 +56,6 @@ create config folder and add config.env file in it and all all env variables the
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+=======
+
+>>>>>>> ead4eed9859a5fd9d9b1e7a16dc7c5431874dba0
